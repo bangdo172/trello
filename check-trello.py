@@ -1,15 +1,10 @@
 import requests
 import json
-key = 'd068e39d5caa008d15f6f24bde23d11b'
-token = 'fad342244c0c1a57ede7bd8f00b8a60c7b3c61c705dd40b3d985140e0d3512e0'
-OAuth = 'aef8bca5d65464ade50fd6907e229bcf5dd7a590865a625c35ede7d96e9dd9c3'
-board_id = '5EZXKSVg'
+key = ''
+token = ''
+OAuth = ''
+board_id = ''
 
-# id_board = '5c92654753d5420546584c20'
-
-# id_list_done = '5c92656207d35f360e119493'
-
-# id_card_test = '5d6a161b710a8b7d9c9af458'
 
 members = []
 
